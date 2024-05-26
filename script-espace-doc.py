@@ -19,7 +19,7 @@ def ecrire_contenu(path_fichier, contenu):
 
 def get_content(url):
     username = 'MatthieuDEVALLE'
-    token = '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'
+    token = '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'
     content = requests.get(url, auth=(username,token))
     return content.json()
 
@@ -55,10 +55,13 @@ def nom_doc(titre):
     titre = titre.replace("'","")
     titre = titre.upper()
     return titre
+
 def explore_cree(url):
     #print("URL:" + url)
     url = str(url)
     content = get_content(url)
+    #print(content)
+
 
     for contenu in content :
         if str(contenu["type"]) == "dir":
