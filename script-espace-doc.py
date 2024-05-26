@@ -22,6 +22,7 @@ def get_content(url):
         token = os.environ["GH_TOKEN"]
     except KeyError:
         token = "Token not available!"
+        print(KeyError)
     username = 'MatthieuDEVALLE'
     #token = ''
     print("TOKEN :"+token)
