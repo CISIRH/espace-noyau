@@ -1,5 +1,10 @@
 name: run script-espace-noyau.py
 
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
