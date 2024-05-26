@@ -18,10 +18,7 @@ def ecrire_contenu(path_fichier, contenu):
     f.close()
 
 def get_content(url):
-    try:
-        token = os.getenv('GH_TOKEN')
-    except KeyError:
-        token = "Token not available!"
+    token = os.environ["GH_TOKEN"]
     username = 'MatthieuDEVALLE'
     #token = ''
     print(token)
