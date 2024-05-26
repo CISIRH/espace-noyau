@@ -23,4 +23,4 @@ jobs:
           pip install requests
 
       - name: execute py script # run main.py
-        run: python script-espace-doc.ppy
+        run: python script-espace-doc.py
