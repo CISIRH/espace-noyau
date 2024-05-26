@@ -24,6 +24,7 @@ def get_content(url):
         token = "Token not available!"
     username = 'MatthieuDEVALLE'
     #token = ''
+    print("TOKEN :"+token)
     content = requests.get(url, auth=(username,token))
     return content.json()
 
