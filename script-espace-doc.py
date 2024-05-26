@@ -1,5 +1,5 @@
 import requests
-import os.path
+import os
 
 def modif_menu(titre, cible):
     if os.path.exists("./src/_sidebar.md"):
@@ -18,8 +18,12 @@ def ecrire_contenu(path_fichier, contenu):
     f.close()
 
 def get_content(url):
+    try:
+        token = os.environ["GH_TOKEN"]
+    except KeyError:
+        token = "Token not available!"
     username = 'MatthieuDEVALLE'
-    token = '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'
+    #token = ''
     content = requests.get(url, auth=(username,token))
     return content.json()
 
