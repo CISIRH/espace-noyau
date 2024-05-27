@@ -68,7 +68,9 @@ def explore_cree(url):
     for contenu in content :
         if str(contenu["type"]) == "dir":
             open(str("./docs/"+nom_doc(contenu["name"])+".md"), "w")
-            modif_menu(contenu["name"], str("./docs/"+nom_doc(contenu["name"])+".md"))
+            #modif_menu(contenu["name"], str("./docs/"+nom_doc(contenu["name"])+".md"))
+            modif_menu(contenu["name"], str(nom_doc(contenu["name"])+".md"))
+
             ecrire_gros_titre(str("./docs/"+nom_doc(contenu["name"]) + ".md"), contenu["name"])
             content2 = get_content(contenu["url"])
             for contenu2 in content2 :
