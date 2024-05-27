@@ -63,8 +63,6 @@ def explore_cree(url):
     url = str(url)
     content = get_content(url)
     #print(content)
-    f = open("./src/_sidebar.md","w")
-
 
     for contenu in content :
         if str(contenu["type"]) == "dir":

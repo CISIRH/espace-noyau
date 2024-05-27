@@ -27,7 +27,10 @@ jobs:
           pip install requests
 
       - name: execute py script # run main.py
-        run: python script-espace-doc.py
+        run:
+          rm ./src/_sidebar.md
+          rm ./docs/_sidebar.md
+          python script-espace-doc.py
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
