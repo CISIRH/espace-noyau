@@ -1,7 +1,7 @@
 import requests
 import os
 
-def modif_menu(titre, cible):
+def modif_menu(titre, cible, f):
     if os.path.exists("./src/_sidebar.md"):
         f = open("./src/_sidebar.md","a")
     else :
@@ -63,6 +63,7 @@ def explore_cree(url):
     url = str(url)
     content = get_content(url)
     #print(content)
+    f = open("./src/_sidebar.md","w")
 
 
     for contenu in content :
@@ -70,6 +71,7 @@ def explore_cree(url):
             open(str("./docs/"+nom_doc(contenu["name"])+".md"), "w")
             #modif_menu(contenu["name"], str("./docs/"+nom_doc(contenu["name"])+".md"))
             modif_menu(contenu["name"], str(nom_doc(contenu["name"])+".md"))
+            print(str(nom_doc(contenu["name"])+".md"))
 
             ecrire_gros_titre(str("./docs/"+nom_doc(contenu["name"]) + ".md"), contenu["name"])
             content2 = get_content(contenu["url"])
