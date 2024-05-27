@@ -1,7 +1,7 @@
 import requests
 import os
 
-def modif_menu(titre, cible, f):
+def modif_menu(titre, cible):
     if os.path.exists("./src/_sidebar.md"):
         f = open("./src/_sidebar.md","a")
     else :
