@@ -1,0 +1,18 @@
+# GUIDES
+- [Fiche Pratique RH - Gestion des IJSS_v1.1.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Fiche%20Pratique%20RH%20-%20Gestion%20des%20IJSS_v1.1.pdf)
+- [Fiche RH - Indemnité licenciement contractuel.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Fiche%20RH%20-%20Indemnit%C3%A9%20licenciement%20contractuel.pdf)
+- [Fiche TP annualisé vf.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Fiche%20TP%20annualis%C3%A9%20vf.pdf)
+- [Guide CISIRH R.HFP-traduction SIRH.docx](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide%20CISIRH%20R.HFP-traduction%20SIRH.docx)
+- [Guide relatif à l'avancement d'échelon.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide%20relatif%20%C3%A0%20l'avancement%20d'%C3%A9chelon.pdf)
+- [Guide relatif à l'avancement de grade.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide%20relatif%20%C3%A0%20l'avancement%20de%20grade.pdf)
+- [Guide relatif à la rémunération hors échelle.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide%20relatif%20%C3%A0%20la%20r%C3%A9mun%C3%A9ration%20hors%20%C3%A9chelle.pdf)
+- [Guide supplément familial de traitement.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide%20suppl%C3%A9ment%20familial%20de%20traitement.pdf)
+- [Guide_Compensation_CSG.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide_Compensation_CSG.pdf)
+- [Guide_ISRC.docx](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide_ISRC.docx)
+- [Guide_Indemnité_Départ_Volontaire.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide_Indemnit%C3%A9_D%C3%A9part_Volontaire.pdf)
+- [Guide_Traitement_Brut.docx](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Guide_Traitement_Brut.docx)
+- [Impact des situations administratives sur l'avancement d'échelon.xlsx](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Impact%20des%20situations%20administratives%20sur%20l'avancement%20d'%C3%A9chelon.xlsx)
+## Impacts des congés et absences
+- [Cartographie ICA_Titulaires FPE_VV.XLSX](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Impacts%20des%20cong%C3%A9s%20et%20absences/Cartographie%20ICA_Titulaires%20FPE_VV.XLSX)
+- [GUIDE_ICA.pdf](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Impacts%20des%20cong%C3%A9s%20et%20absences/GUIDE_ICA.pdf)
+- [Livrable-règlementaire_ICA_VV.xlsx](https://github.com/CISIRH/espace-noyau/blob/main/Noyau%20RH%20FPE/GUIDES/Impacts%20des%20cong%C3%A9s%20et%20absences/Livrable-r%C3%A8glementaire_ICA_VV.xlsx)
