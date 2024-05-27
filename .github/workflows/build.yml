@@ -27,7 +27,7 @@ jobs:
           pip install requests
 
       - name: execute py script # run main.py
-        run:
+        run: |
           rm ./src/_sidebar.md
           rm ./docs/_sidebar.md
           python script-espace-doc.py
