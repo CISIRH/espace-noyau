@@ -45,7 +45,8 @@ def explore_sub(contenu_inital,contenu_prec):
     content = get_content(contenu_prec["url"])
     for contenu2 in content:
         if str(contenu2["type"]) == "file":
-            ecrire_lien(str("./docs/"+nom_doc(contenu_inital["name"]) + ".md"), contenu2["name"], contenu2["download_url"])
+            link = (contenu2["download_url"]).replace(" ","%20)
+            ecrire_lien(str("./docs/"+nom_doc(contenu_inital["name"]) + ".md"), contenu2["name"], link)
         else:
             ecrire_titre(str("./docs/"+nom_doc(contenu_inital["name"]) + ".md"), contenu2["name"])
             explore_sub(contenu_inital,contenu2)
@@ -75,7 +76,8 @@ def explore_cree(url):
             content2 = get_content(contenu["url"])
             for contenu2 in content2 :
                 if str(contenu2["type"]) == "file":
-                    ecrire_lien(str("./docs/"+nom_doc(contenu["name"])+".md"),contenu2["name"],contenu2["download_url"])
+                    link = (contenu2["download_url"]).replace(" ","%20)
+                    ecrire_lien(str("./docs/"+nom_doc(contenu["name"])+".md"),contenu2["name"],link)
                     #ecrire_contenu(str(contenu["name"]+".md"),contenu["html_url"])
                 else :
                     ecrire_moyen_titre(str("./docs/"+nom_doc(contenu["name"])+".md"),contenu2["name"])
