@@ -34,7 +34,7 @@ def ecrire_moyen_titre(fichier, gros_titre):
     ecrire_contenu(fichier,res)
 
 def ecrire_lien(fichier, titre, lien):
-    res = "["+titre+"]("+lien+")"+"\n"
+    res = "["+titre+"]("+lien+")"+"<br/>"
     ecrire_contenu(fichier, res)
 
 def ecrire_titre(fichier, titre):
