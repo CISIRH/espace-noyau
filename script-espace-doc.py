@@ -26,11 +26,11 @@ def get_content(url):
     return content.json()
 
 def ecrire_gros_titre(fichier, gros_titre):
-    res = "# "+gros_titre+"\n"
+    res = "# "+gros_titre+"<br>"
     ecrire_contenu(fichier,res)
 
 def ecrire_moyen_titre(fichier, gros_titre):
-    res = "## "+gros_titre+"\n"
+    res = "## "+gros_titre+"<br>"
     ecrire_contenu(fichier,res)
 
 def ecrire_lien(fichier, titre, lien):
@@ -38,7 +38,7 @@ def ecrire_lien(fichier, titre, lien):
     ecrire_contenu(fichier, res)
 
 def ecrire_titre(fichier, titre):
-    res = "### "+titre+"\n"
+    res = "### "+titre+"<br>"
     ecrire_contenu(fichier,res)
 
 def explore_sub(contenu_inital,contenu_prec):
