@@ -1,5 +1,4 @@
 # BIBLIOTHEQUE DES ACTES (BdA) - MODELES D'ACTES
-test
 ## Affectation - Mobilité
 [INTORG0001_Changement_affectation_sans_changement_résidence (T).pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/BIBLIOTHEQUE%20DES%20ACTES%20(BdA)%20-%20MODELES%20D'ACTES/Affectation%20-%20Mobilité/INTORG0001_Changement_affectation_sans_changement_résidence%20(T).pdf)<br/>
 [INTORG0002_Changement_affectation_avec_changement_résidence_hors_métropole (T).pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/BIBLIOTHEQUE%20DES%20ACTES%20(BdA)%20-%20MODELES%20D'ACTES/Affectation%20-%20Mobilité/INTORG0002_Changement_affectation_avec_changement_résidence_hors_métropole%20(T).pdf)<br/>
