@@ -37,3 +37,6 @@
 [Index_Newsletter.xlsx](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/Newsletters%20du%20chatbot/Index_Newsletter.xlsx)<br/>
 [Newsletter_202401_VF.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/Newsletters%20du%20chatbot/Newsletter_202401_VF.pdf)<br/>
 [Newsletter_202403_VF.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/Newsletters%20du%20chatbot/Newsletter_202403_VF.pdf)<br/>
+[Newsletter_202405_VF.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/Newsletters%20du%20chatbot/Newsletter_202405_VF.pdf)<br/>
+[Newsletter_202407_VF.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/Newsletters%20du%20chatbot/Newsletter_202407_VF.pdf)<br/>
+[Newsletter_202409_VF.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/Newsletters%20du%20chatbot/Newsletter_202409_VF.pdf)<br/>
