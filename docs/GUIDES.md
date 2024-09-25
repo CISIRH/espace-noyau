@@ -16,3 +16,4 @@
 [Cartographie ICA_Titulaires FPE_VV.XLSX](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Impacts%20des%20congés%20et%20absences/Cartographie%20ICA_Titulaires%20FPE_VV.XLSX)<br/>
 [GUIDE_ICA.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Impacts%20des%20congés%20et%20absences/GUIDE_ICA.pdf)<br/>
 [Livrable-règlementaire_ICA_VV.xlsx](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Impacts%20des%20congés%20et%20absences/Livrable-règlementaire_ICA_VV.xlsx)<br/>
+[Programme_Atelier_Chatbot.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Programme_Atelier_Chatbot.pdf)<br/>
