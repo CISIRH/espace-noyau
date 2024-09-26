@@ -1,4 +1,5 @@
 # GUIDES
+[A_Programme_Atelier_Chatbot.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/A_Programme_Atelier_Chatbot.pdf)<br/>
 [Fiche Pratique RH - Gestion des IJSS_v1.1.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Fiche%20Pratique%20RH%20-%20Gestion%20des%20IJSS_v1.1.pdf)<br/>
 [Fiche RH - Indemnité licenciement contractuel.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Fiche%20RH%20-%20Indemnité%20licenciement%20contractuel.pdf)<br/>
 [Fiche TP annualisé vf.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/GUIDES/Fiche%20TP%20annualisé%20vf.pdf)<br/>
