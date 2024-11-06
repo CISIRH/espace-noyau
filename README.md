@@ -17,9 +17,9 @@ _Modèles d’actes administratifs interministériels (plus de 200 arrêtés de 
 
 **3. GESTION ADMINISTRATIVE (RCC-RGRH)**
 
-_RCC (Référentiels de Classification Centraux) : modélisation du classement des agents publics selon leur corps/ grade/échelon
+_RCC (Référentiels de Classification Centraux) : modélisation du classement des agents publics selon leur corps/ grade/échelon_
 
-RGRH (Règles de Gestion RH) : création de règles pour implémentation dans les SIRH_
+_RGRH (Règles de Gestion RH) : création de règles pour implémentation dans les SIRH_
 
 
 **4. REFERENTIEL DE PAYE**
