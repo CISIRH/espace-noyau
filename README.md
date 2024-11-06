@@ -6,8 +6,9 @@ Ce portail présente les différents travaux du Bureau de l'analyse réglementai
 
 **1. DOCUMENTATION RH-PAIE**
 
-_Guides, modes opératoires, formulaires RH et autres documentations d’appui à la gestion
-Documentation accompagnant les outils du CISIRH : [Boîte à Outils du CISIRH](https://outils.cisirh.gouv.fr/)_
+_Guides, modes opératoires, formulaires RH et autres documentations d’appui à la gestion_
+
+_Documentation accompagnant les outils du CISIRH : [Boîte à Outils du CISIRH](https://outils.cisirh.gouv.fr/)_
 
 
 **2. BIBLIOTHEQUE DES ACTES – MODELES ACTES ADMINISTRATIFS**
