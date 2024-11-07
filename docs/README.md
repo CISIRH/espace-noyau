@@ -5,15 +5,14 @@
 Ce portail présente les différents travaux du Bureau de l'analyse réglementaire et des référentiels interministériels du CISIRH :
 
 **1. DOCUMENTATION RH-PAIE**
-
-_Guides, modes opératoires, formulaires RH et autres documentations d’appui à la gestion_
+_Guides, modes opératoires, formulaires RH et autres documentations d’appui à la gestion RH-Paie_
 
 _Documentation accompagnant les outils du CISIRH : [Boîte à Outils du CISIRH](https://outils.cisirh.gouv.fr/)_
 
 
 **2. BIBLIOTHEQUE DES ACTES – MODELES ACTES ADMINISTRATIFS**
 
-_Modèles d’actes administratifs interministériels (plus de 200 arrêtés de la BdA)_
+_Modèles d’actes administratifs interministériels : plus de 200 arrêtés de la BdA_
 
 
 **3. GESTION ADMINISTRATIVE (RCC-RGRH)**
@@ -25,29 +24,31 @@ _RGRH (Règles de Gestion RH) : création de règles pour implémentation dans l
 
 **4. REFERENTIEL DE PAYE**
 
-_Description réglementaire des primes et indemnités des agents publics
-Présentation des états liquidatifs et de la cartographie de l’impact des congés et absences sur le versement des indemnités_
+_Description réglementaire des primes et indemnités des agents publics_
+
+_Présentation des états liquidatifs et de la cartographie de l’impact des congés et absences sur le versement des primes et indemnités des agents de la FPE_
 
 
 **5. PAY-PAYSAGE**
 
-_Documentation PAY (Annexes DGFiP, Calendrier paie/acomptes…), les états liquidatifs et les RGPAY (Règles de gestion PAY)_
+_Documentation PAY (Annexes DGFiP, Calendrier paie/acomptes…), les états liquidatifs et le paramétrage PAY (RGPAY)_
 
 
 **6. NOMENCLATURES ET AUTRES REFERENTIELS**
 
-_Ensemble des nomenclatures GA-Paye (plus de 300 nomenclatures : Gestion Administrative, SIRH, Fichier GEST, DSN…) de l’outil INGRES, des dictionnaires des concepts,  et des données ainsi que des informations complémentaires._
+_Ensemble des nomenclatures GA-Paie (plus de 300 nomenclatures : Gestion Administrative, SIRH, Fichier GEST, DSN…) de l’outil INGRES, des Dictionnaires des concepts et des données ainsi que des informations complémentaires_
 
 
 **7. DOCUMENTATION CHATBOT REBECCA**
 
-_Toute la documentation du chatbot Rebecca, l’assistant digital à destination des gestionnaires RH-Paye_
+_Toute la documentation du chatbot Rebecca, l’assistant digital à destination des gestionnaires RH-Paie_
 
 
 **8. ARCHIVES – RESTITUTION DES ATELIERS**
 
-_Restitution des ateliers et groupes de travail du réseau interministériel
-Tableaux de reclassement (Réforme haute fonction publique)._ 
+_Restitution des ateliers et groupes de travail du réseau interministériel_
+
+_Tableaux de reclassement (Réforme haute fonction publique)_ 
 
 
 ## Licence
