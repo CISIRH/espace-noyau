@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce portail présente les différents travaux du Bureau de l'analyse réglementaire et des référentiels interministériels du CISIRH sous 7 répertoires :
+Ce portail présente les différents travaux du Bureau de l'analyse réglementaire et des référentiels interministériels du CISIRH sous 8 répertoires :
 
 
 
