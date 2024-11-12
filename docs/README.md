@@ -24,7 +24,7 @@ _Modèles d’actes administratifs interministériels : plus de 200 arrêtés de
 
 _RCC (Référentiels de Classification Centraux) : modélisation du classement des agents publics selon leur corps/ grade/échelon_
 
-_RGRH (Règles de Gestion RH) : modélisation des réglementations RH en règles automatisables (ou intellectuelles) implémentables dans les SIRH_
+_RGRH (Règles de Gestion RH) : modélisation des textes règlementaires RH en règles automatisables (ou intellectuelles) implémentables dans les SIRH_
 
 
 
@@ -32,7 +32,7 @@ _RGRH (Règles de Gestion RH) : modélisation des réglementations RH en règles
 
 _Description réglementaire des primes et indemnités des agents publics (éligibilité, mode de calcul, incompatibilité etc)_
 
-_Modèles d'états liquidatifs en fonction du type de primes et indemnités_
+_Modèles d'états liquidatifs attendus par les comptables en fonction du type de primes et indemnités_
 
 _Cartographie de l’impact des congés et absences sur le versement des primes et indemnités des agents de la FPE_
 
