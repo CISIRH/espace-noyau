@@ -16,10 +16,14 @@ Documentation accompagnant les outils du CISIRH destinés aux gestionnaires RH (
 
 <br>
 
+<br>
+
 <span style="color:#000091">**2. BIBLIOTHEQUE DES ACTES – MODELES ACTES ADMINISTRATIFS**</span>
 
 Modèles d’actes administratifs interministériels : plus de 200 arrêtés de la BdA
 
+
+<br>
 
 <br>
 
@@ -29,6 +33,8 @@ RCC (Référentiels de Classification Centraux) : modélisation du classement de
 
 RGRH (Règles de Gestion RH) : modélisation des textes règlementaires RH en règles automatisables (ou intellectuelles) implémentables dans les SIRH
 
+
+<br>
 
 <br>
 
@@ -43,10 +49,14 @@ Cartographie de l’impact des congés et absences sur le versement des primes e
 
 <br>
 
+<br>
+
 <span style="color:#000091">**5. PAY-PAYSAGE**</span>
 
 Documentation liée à l'application PAYSAGE (Annexes DGFiP, Calendrier de paie/acomptes…) et le paramétrage PAY (RGPAY)
 
+
+<br>
 
 <br>
 
@@ -57,10 +67,14 @@ Ensemble des nomenclatures GA-Paie (plus de 300 nomenclatures : Gestion Administ
 
 <br>
 
+<br>
+
 <span style="color:#000091">**7. DOCUMENTATION CHATBOT REBECCA**</span>
 
 Toute la documentation du chatbot Rebecca, l’assistant digital à destination des gestionnaires RH-Paie
 
+
+<br>
 
 <br>
 
