@@ -7,68 +7,68 @@ Ce portail présente les différents travaux du Bureau de l'analyse réglementai
 
 <br>
 
-**1. DOCUMENTATION RH-PAIE**
+<span style="color:#27a658">1. DOCUMENTATION RH-PAIE</span>
 
-_Guides, modes opératoires, formulaires RH et autres documentations d’appui à la gestion RH-Paie_
+Guides, modes opératoires, formulaires RH et autres documentations d’appui à la gestion RH-Paie
 
-_Documentation accompagnant les outils du CISIRH destinés aux gestionnaires RH (calculatrices, simulateurs) : [Boîte à Outils du CISIRH](https://outils.cisirh.gouv.fr/)_
-
-
-<br>
-
-**2. BIBLIOTHEQUE DES ACTES – MODELES ACTES ADMINISTRATIFS**
-
-_Modèles d’actes administratifs interministériels : plus de 200 arrêtés de la BdA_
+Documentation accompagnant les outils du CISIRH destinés aux gestionnaires RH (calculatrices, simulateurs) : [Boîte à Outils du CISIRH](https://outils.cisirh.gouv.fr/)
 
 
 <br>
 
-**3. GESTION ADMINISTRATIVE (RCC-RGRH)**
+<span style="color:#27a658">2. BIBLIOTHEQUE DES ACTES – MODELES ACTES ADMINISTRATIFS</span>
 
-_RCC (Référentiels de Classification Centraux) : modélisation du classement des agents publics selon leur corps/ grade/échelon_
-
-_RGRH (Règles de Gestion RH) : modélisation des textes règlementaires RH en règles automatisables (ou intellectuelles) implémentables dans les SIRH_
+Modèles d’actes administratifs interministériels : plus de 200 arrêtés de la BdA
 
 
 <br>
 
-**4. REFERENTIEL DE PAYE**
+<span style="color:#27a658">3. GESTION ADMINISTRATIVE (RCC-RGRH)</span>
 
-_Description réglementaire des primes et indemnités des agents publics (éligibilité, mode de calcul, incompatibilité etc)_
+RCC (Référentiels de Classification Centraux) : modélisation du classement des agents publics selon leur corps/ grade/échelon
 
-_Modèles d'états liquidatifs attendus par les comptables en fonction du type de primes et indemnités_
-
-_Cartographie de l’impact des congés et absences sur le versement des primes et indemnités des agents de la FPE_
+RGRH (Règles de Gestion RH) : modélisation des textes règlementaires RH en règles automatisables (ou intellectuelles) implémentables dans les SIRH
 
 
 <br>
 
-**5. PAY-PAYSAGE**
+<span style="color:#27a658">4. REFERENTIEL DE PAYE</span>
 
-_Documentation liée à l'application PAYSAGE (Annexes DGFiP, Calendrier de paie/acomptes…) et le paramétrage PAY (RGPAY)_
+Description réglementaire des primes et indemnités des agents publics (éligibilité, mode de calcul, incompatibilité etc)
 
+Modèles d'états liquidatifs attendus par les comptables en fonction du type de primes et indemnités
 
-<br>
-
-**6. NOMENCLATURES ET AUTRES REFERENTIELS**
-
-_Ensemble des nomenclatures GA-Paie (plus de 300 nomenclatures : Gestion Administrative, SIRH, Fichier GEST, DSN…) de l’outil INGRES, le dictionnaires des concepts, le dictionnaire des données ainsi que des informations complémentaires_
+Cartographie de l’impact des congés et absences sur le versement des primes et indemnités des agents de la FPE
 
 
 <br>
 
-**7. DOCUMENTATION CHATBOT REBECCA**
+<span style="color:#27a658">5. PAY-PAYSAGE</span>
 
-_Toute la documentation du chatbot Rebecca, l’assistant digital à destination des gestionnaires RH-Paie_
+Documentation liée à l'application PAYSAGE (Annexes DGFiP, Calendrier de paie/acomptes…) et le paramétrage PAY (RGPAY)
 
 
 <br>
 
-**8. ARCHIVES – RESTITUTION DES ATELIERS**
+<span style="color:#27a658">6. NOMENCLATURES ET AUTRES REFERENTIELS</span>
 
-_Restitution des ateliers et groupes de travail du réseau interministériel_
+Ensemble des nomenclatures GA-Paie (plus de 300 nomenclatures : Gestion Administrative, SIRH, Fichier GEST, DSN…) de l’outil INGRES, le dictionnaires des concepts, le dictionnaire des données ainsi que des informations complémentaires
 
-_Tableaux de reclassement (Réforme haute fonction publique)_ 
+
+<br>
+
+<span style="color:#27a658">7. DOCUMENTATION CHATBOT REBECCA</span>
+
+Toute la documentation du chatbot Rebecca, l’assistant digital à destination des gestionnaires RH-Paie
+
+
+<br>
+
+<span style="color:#27a658">8. ARCHIVES – RESTITUTION DES ATELIERS</span>
+
+Restitution des ateliers et groupes de travail du réseau interministériel
+
+Tableaux de reclassement (Réforme haute fonction publique)
 
 
 ## Licence
